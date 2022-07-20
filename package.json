@@ -1,0 +1,11 @@
+{
+  "name": "coin-ai",
+  "version": "0.3.5",
+  "scripts": {
+    "git": "./_shell/gitSet.sh",
+    "sync": "./_shell/gitSync.sh",
+    "serve": "./_shell/serve_start.sh",
+    "build": "./_shell/build.sh",
+    "deploy": "./_shell/deploy.sh"
+  }
+}
